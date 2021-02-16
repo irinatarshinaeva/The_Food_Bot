@@ -1,6 +1,6 @@
-# IVITECHfinancialBack
+# The_Food_Bot
 
-"eatForever" - Telegram-бот, который предлагает рецепты на все случаи жизни. Он присылает пошаговые инструкции для приготовления любого блюда, а также описание ингредиентов.
+"The_Food_Bot" - Telegram-бот, который предлагает рецепты на все случаи жизни. Он присылает пошаговые инструкции для приготовления любого блюда, а также описание ингредиентов.
 
 ### Стек технологий используемых в проекте:
 
@@ -16,7 +16,7 @@
 
 ### Выбираем категорию блюд:
 
-![category](https://github.com/irinatarshinaeva/eatForever/blob/master/assests/screenshots/category.png 'Категория')
+![category](https://github.com/irinatarshinaeva/The_Food_Bot/blob/master/assests/screenshots/category.png 'Категория')
 
 ### Смотрим, что нам по душе сегодня:
 
