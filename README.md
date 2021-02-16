@@ -20,8 +20,8 @@
 
 ### Смотрим, что нам по душе сегодня:
 
-![dish](https://github.com/irinatarshinaeva/The_Food_Bot/blob/master/public/assests/screenshots/dish.png 'Блюда')
+![dish](https://github.com/irinatarshinaeva/The_Food_Bot/blob/master/assests/screenshots/dish.png 'Блюда')
 
 ### Получаем идеальный рецепт:
 
-![food](https://github.com/irinatarshinaeva/The_Food_Bot/blob/master/public/assests/screenshots/food.png 'Рецепт')
+![food](https://github.com/irinatarshinaeva/The_Food_Bot/blob/master/assests/screenshots/food.png 'Рецепт')
